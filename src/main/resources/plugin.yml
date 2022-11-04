@@ -1,0 +1,9 @@
+name: FStaff
+version: '1.0.0'
+main: net.foulest.fstaff.FStaff
+author: Foulest
+permissions:
+  fstaff.staff:
+    description: "Permission to use staff mode features."
+  fstaff.admin:
+    description: "Permission to reload the config."
